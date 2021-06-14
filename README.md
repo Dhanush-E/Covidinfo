@@ -1,5 +1,5 @@
 # Covidinfo
-
+It is python libary for getting covid-19 Data
 ## How to install
         pip install Covidinfo 
 
