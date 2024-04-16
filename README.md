@@ -30,17 +30,17 @@ It is python libary for getting covid-19 Data
          18.world_total_cases()
          
    ### Using functions example
-   note:- here imported using second way
+   note:- here imported using the second way
    
          1. cp.covid_intro()  - it returns a short intro regarding covid-19
          
          2. cp.world_total_cases() - it returns total covid-19 cases count 
          
-         3. cp.india_vaccination_count() - it returns total vaccination count in india 
+         3. cp.india_vaccination_count() - it returns the total vaccination count in India 
          
-         4. cp.covid_news()  -it top returns news regarding covid-19
+         4. cp.covid_news()  - it top returns news regarding covid-19
          
-         5. cp.vaccination_effects()   -prints post vaccination effects
+         5. cp.vaccination_effects()   - prints post vaccination effects
          
          
    
