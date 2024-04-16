@@ -30,8 +30,7 @@ It is python libary for getting covid-19 Data
          18.world_total_cases()
          
    ### Using functions example
-   note:- here imported using the second way
-   
+
          1. cp.covid_intro()  - it returns a short intro regarding covid-19
          
          2. cp.world_total_cases() - it returns total covid-19 cases count 
